@@ -3,14 +3,13 @@ Your repostiory should be named something like `async-final-project-color-name`
 Example: `async-final-project-teal-Anas`
 
 ## Dataset
-[Dataset Name](https://www.example.com/link-to-dataset)
+[Healthy Minds Network](https://healthymindsnetwork.org/hms/)
 
 ## Why did I chose this dataset?
-
-[Placeholder for answer]
+It’s national data on student’s mental health, which is a topic I am interested in.
 
 ## Progress
-- [ ] Picked dataset
+- [X] Picked dataset
 - [ ] Defined 10 questions
 - [ ] Answered 10 questions using Pandas
 - [ ] Added at least one data visualization (using Matplotlib and/or Seaborn) to each single question
