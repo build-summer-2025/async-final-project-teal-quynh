@@ -16,39 +16,39 @@ It’s national data on student’s mental health, which is a topic I am interes
 - [ ] Prepared presentation slides to present at graduation
 
 ## Questions
-- [ ] Question 1: [Brief description of the task]
+- [ ] Question 1: Does mental health wellness differ between race/ethnicity?
   - Answer: [Placeholder for answer]
   - Visualization: ![Q1 Visualization](https://example.com/path-to-image-1.png)
 
-- [ ] Question 2: [Brief description of the task]
+- [ ] Question 2: Does mental health wellness differ between gender?
   - Answer: [Placeholder for answer]
   - Visualization: ![Q2 Visualization](https://example.com/path-to-image-2.png)
 
-- [ ] Question 3: [Brief description of the task]
+- [ ] Question 3: Does mental health wellness differ between sexual identities?
   - Answer: [Placeholder for answer]
   - Visualization: ![Q3 Visualization](https://example.com/path-to-image-3.png)
 
-- [ ] Question 4: [Brief description of the task]
+- [ ] Question 4: Does mental health wellness differ between financial status?
   - Answer: [Placeholder for answer]
   - Visualization: ![Q4 Visualization](https://example.com/path-to-image-4.png)
 
-- [ ] Question 5: [Brief description of the task]
+- [ ] Question 5: Does mental health help seeking affects mental health wellbeing?
   - Answer: [Placeholder for answer]
   - Visualization: ![Q5 Visualization](https://example.com/path-to-image-5.png)
 
-- [ ] Question 6: [Brief description of the task]
+- [ ] Question 6: Does mental health help seeking differ between race/ethnicity?
   - Answer: [Placeholder for answer]
   - Visualization: ![Q6 Visualization](https://example.com/path-to-image-6.png)
 
-- [ ] Question 7: [Brief description of the task]
+- [ ] Question 7: Does mental health help seeking differ between gender?
   - Answer: [Placeholder for answer]
   - Visualization: ![Q7 Visualization](https://example.com/path-to-image-7.png)
 
-- [ ] Question 8: [Brief description of the task]
+- [ ] Question 8: Does mental health help seeking differ between sexual identities?
   - Answer: [Placeholder for answer]
   - Visualization: ![Q8 Visualization](https://example.com/path-to-image-8.png)
 
-- [ ] Question 9: [Brief description of the task]
+- [ ] Question 9: Does mental health help seeking differ between financial status?
   - Answer: [Placeholder for answer]
   - Visualization: ![Q9 Visualization](https://example.com/path-to-image-9.png)
 
