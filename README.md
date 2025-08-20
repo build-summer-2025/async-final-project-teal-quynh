@@ -10,7 +10,7 @@ It’s national data on student’s mental health, which is a topic I am interes
 
 ## Progress
 - [X] Picked dataset
-- [ ] Defined 10 questions
+- [X] Defined 10 questions
 - [ ] Answered 10 questions using Pandas
 - [ ] Added at least one data visualization (using Matplotlib and/or Seaborn) to each single question
 - [ ] Prepared presentation slides to present at graduation
